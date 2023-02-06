@@ -10,6 +10,8 @@ id=i1;
 name=s1;
 pswd=p1;
 }
+
+
 public int getid()
 {
 return id;
