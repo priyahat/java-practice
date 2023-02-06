@@ -11,6 +11,8 @@ import java.util.Scanner;
        {
         System.out.print("");
        }
+
+       
         for(int j=i;j<=5;j++)
         {
          System.out.print(j+"  ");
