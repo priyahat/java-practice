@@ -7,6 +7,7 @@ class
     float c=10.50f;
 
     char e='h';
+    
     boolean b=true;
     System.out.println("addition of a+b="+(a+b));
      System.out.println(10+"hello");
