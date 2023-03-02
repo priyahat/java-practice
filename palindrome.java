@@ -10,6 +10,8 @@ int a=num;
 int sum=0;
 while(a>0)
 {
+
+    
  int rem=a%10;
  sum=sum*10+rem;
  a=a/10;
